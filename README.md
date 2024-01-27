@@ -4,7 +4,7 @@ This repository serves as a collection of various projects, each stored in its r
 <div align="center">
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/python.svg" width="200" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" width="200" />
-  <img src="logo3.png" width="200" />
+  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/medium?v=v2&px=400" width="200" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" width="200" />
 </div>
 

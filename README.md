@@ -2,7 +2,7 @@
 
 This repository serves as a collection of various projects, each stored in its respective folder. Feel free to explore and navigate through the projects based on your interests.
 <div align="center">
-  <img src="https://en.m.wikipedia.org/wiki/File:Python-logo-notext.svg" width="200" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/python.svg" width="200" />
   <img src="logo2.png" width="200" />
   <img src="logo3.png" width="200" />
   <img src="logo4.png" width="200" />

@@ -4,11 +4,11 @@ This repository serves as a collection of various projects, each stored in its r
 
 ## Table of Contents
 
-- [Project 1: Spotify analysis](./Customer Churn Analysis)
-- [Project 2: Customer churn](./Spotify Data Analysis)
+- [Project 1: Spotify analysis](./CustomerChurnAnalysis)
+- [Project 2: Customer churn](./SpotifyDataAnalysis)
 - [Project 3: Python Projects Name](./Python)
 - [Project 4: Microsoft Excel Projects](./Excel)
-- [Project 5: SQL Porjects](./SQL)
+- [Project 5: SQL Projects](./SQL)
 
 ## About the Repository
 

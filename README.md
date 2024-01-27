@@ -14,8 +14,8 @@ This repository serves as a collection of various projects, each stored in its r
 ## Table of Contents
 
 #### END TO END Projects
-- [Project 1: Spotify Analysis](./Spotify%20Analysis)
-- [Project 2: Customer Churn Analysis](./Customer%20Churn%20Analysis)
+- [Project 1: Spotify Analysis (Python + Taableau)](./Spotify%20Analysis)
+- [Project 2: Customer Churn Analysis (Python + Taableau)](./Customer%20Churn%20Analysis)
 - 
 #### Tool Specific Projects
 - [Python Projects](./Python)

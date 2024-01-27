@@ -3,12 +3,13 @@
 This repository serves as a collection of various projects, each stored in its respective folder. Feel free to explore and navigate through the projects based on your interests.
 
 ## Table of Contents
-
-- [Project 1: Spotify analysis](./CustomerChurnAnalysis)
-- [Project 2: Customer churn](./SpotifyDataAnalysis)
-- [Project 3: Python Projects Name](./Python)
-- [Project 4: Microsoft Excel Projects](./Excel)
-- [Project 5: SQL Projects](./SQL)
+### END TO END Projects
+- [Project 1: Spotify Analysis](./Spotify%20Analysis)
+- [Project 2: Customer Churn Analysis](./Customer%20Churn%20Analysis)
+### Tool Specific Projects
+- [Python Projects](./Python)
+- [Microsoft Excel Projects](./Excel)
+- [SQL Projects](./SQL)
 
 ## About the Repository
 

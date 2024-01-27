@@ -6,7 +6,7 @@ This repository serves as a collection of various projects, each stored in its r
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" width="180" />
   <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/medium?v=v2&px=400" width="180" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" width="180" />
-  <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" width="150" style="padding: '50px';" />
+  <img src="https://cktechcheck.com/wp-content/uploads/2020/08/google-sheets-logo-SVG.svg" width="150"  />
 </div>
 
 

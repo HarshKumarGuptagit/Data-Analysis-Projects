@@ -11,6 +11,8 @@ This dataset comprises the following columns:
 - **Purchase Address**: The address of the customer.
 
 ## Introduction
+A Supermarket Store in USA has collected data about the shopping of customers from thier store to undrestad the customers shopping pattern.
+
 The objective of this data analysis project is to extract specific insights about sales. Let's explore the answers to the given questions along with the underlying reasons.
 
 <img src="https://socialmarketingfella.com/wp-content/uploads/2017/08/onlinesales1.png" width='100%'/>

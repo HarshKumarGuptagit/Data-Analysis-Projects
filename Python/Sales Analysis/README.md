@@ -13,6 +13,8 @@ This dataset comprises the following columns:
 ## Introduction
 The objective of this data analysis project is to extract specific insights about sales. Let's explore the answers to the given questions along with the underlying reasons.
 
+<img src="https://socialmarketingfella.com/wp-content/uploads/2017/08/onlinesales1.png" width='100%'/>
+
 ### Question 1: Which was the best month for Sales?
 
 **Interpretation:**

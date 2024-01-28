@@ -2,11 +2,11 @@
 
 This repository serves as a collection of various projects, each stored in its respective folder. Feel free to explore and navigate through the projects based on your interests.
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/python.svg" width="180" />
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" width="180" />
-  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/medium?v=v2&px=400" width="180" />
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" width="180" />
-  <img src="https://cktechcheck.com/wp-content/uploads/2020/08/google-sheets-logo-SVG.svg" width="180"  />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/python.svg" width="20%" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" width="20%" />
+  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/medium?v=v2&px=400" width="20%" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" width="20%" />
+  <img src="https://cktechcheck.com/wp-content/uploads/2020/08/google-sheets-logo-SVG.svg" width="20%"  />
 </div>
 
 

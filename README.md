@@ -17,13 +17,13 @@ This repository serves as a collection of various projects, each stored in its r
 #### Major Projects
 - [Project 1: Spotify Analysis (Python + Tableau)](./Spotify%20Data%20Analysis)
 - [Project 2: Customer Churn Analysis (Python + Tableau)](./Customer%20Churn%20Analysis)
-- 
+  
 #### Tool Specific Projects
 - [Python Projects](./Python)
 - [Microsoft Excel Projects](./Excel)
 - [SQL Projects](./SQL)
 - [Power BI Projects](./Power%20BI)
-- 
+
 ## About the Repository
 
 This repository is organized to provide a structured overview of the different projects it encompasses. Each project has its dedicated folder, containing the necessary files, documentation, and code.

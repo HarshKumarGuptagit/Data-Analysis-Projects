@@ -22,7 +22,8 @@ This repository serves as a collection of various projects, each stored in its r
 - [Python Projects](./Python)
 - [Microsoft Excel Projects](./Excel)
 - [SQL Projects](./SQL)
-
+- [Power BI Projects](./PowerBI)
+- 
 ## About the Repository
 
 This repository is organized to provide a structured overview of the different projects it encompasses. Each project has its dedicated folder, containing the necessary files, documentation, and code.

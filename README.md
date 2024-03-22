@@ -22,7 +22,7 @@ This repository serves as a collection of various projects, each stored in its r
 - [Python Projects](./Python)
 - [Microsoft Excel Projects](./Excel)
 - [SQL Projects](./SQL)
-- [Power BI Projects](./PowerBI)
+- [Power BI Projects](./Power%20BI)
 - 
 ## About the Repository
 

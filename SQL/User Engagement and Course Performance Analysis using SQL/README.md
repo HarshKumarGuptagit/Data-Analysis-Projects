@@ -19,6 +19,3 @@ To run the SQL queries, simply execute the `queries.sql` file in your preferred 
 
 For a detailed analysis report, refer to [User Engagement and Course Performance Analysis using SQL.pdf](User%20Engagement%20and%20Course%20Performance%20Analysis%20using%20SQL/User%20Engagement%20and%20Course%20Performance%20Analysis%20using%20SQL.pdf).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

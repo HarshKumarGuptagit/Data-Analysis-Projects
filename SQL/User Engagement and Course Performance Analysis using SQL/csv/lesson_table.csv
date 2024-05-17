@@ -1,0 +1,24 @@
+lesson_id,topic_id,lesson_title,lesson_type,duration_in_sec
+LSN01,TPC01,Google Colab and Numpy,VIDEO,3600
+LSN02,TPC01,Broadcasting and Ufuncs,PRACTICE,4200
+LSN03,,Pandas Coding Assignment - 3,EXAM,3600
+LSN15,TPC02,React Popup | Reading Material,VIDEO,3600
+LSN13,TPC03,Working with Files - Coding Practice - 2,PRACTICE,4200
+LSN11,TPC03,Setting Up WSL2,VIDEO,3600
+LSN05,TPC06,Coding Exam - 1,ASSIGNMENT,3600
+LSN06,TPC04,Staging Area & Commits | Cheat Sheet,VIDEO,4200
+LSN12,TPC05,Priority Queues & Heaps - Coding Contest - 1,ASSIGNMENT,3600
+LSN04,TPC06,Operations on Binary Search Trees Assignement - 1,ASSIGNMENT,3600
+LSN07,TPC04,MCQ Practice,PRACTICE,3600
+LSN08,TPC07,"Best, Worst & Average Case of an Algorithm Slides",VIDEO,3600
+LSN09,TPC07,Coding Practice,PRACTICE,3600
+LSN14,TPC08,Library Functions- Sort (Python),PRACTICE,3600
+LSN10,,Jobby App Exam,EXAM,3600
+LSN16,TPC15,Coding Exam - 1,ASSIGNMENT,3600
+LSN17,TPC02,React Popup | Exam,EXAM,1800
+LSN18,TPC03,Working with the Ccommand Line Introduction,VIDEO,3600
+LSN19,TPC03,Command Line Hands-on,PRACTICE,1800
+LSN20,TPC06,Binary Search Overview,VIDEO,3000
+LSN21,TPC04,Git Commands Hands-on,PRACTICE,1800
+LSN22,TPC04,Git Branches,VIDEO,2400
+LSN23,TPC08,Sorting Algorithms Assignmnet,ASSIGNMENT,4200

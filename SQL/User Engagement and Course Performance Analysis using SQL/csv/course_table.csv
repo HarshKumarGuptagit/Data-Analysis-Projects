@@ -1,0 +1,7 @@
+course_id,track_id,course_title
+CRS01,TRCK101,Practical Python
+CRS02,TRCK101,Developer Foundations
+CRS03,TRCK102,Data Structures
+CRS04,TRCK102,Elementary Data Structures and Algorithms
+CRS05,TRCK103,JavaScript Essentials
+CRS06,TRCK103,React JS - Getting started

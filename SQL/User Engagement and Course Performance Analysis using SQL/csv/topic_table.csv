@@ -1,0 +1,12 @@
+topic_id,course_id,topic_title
+TPC01,CRS01,Numpy and Pandas
+TPC03,CRS02,Working with Command Line
+TPC04,CRS02,Collaborating with Git
+TPC05,CRS03,Priority Queues & Heaps
+TPC06,CRS03,Binary Search Trees
+TPC07,CRS04,Introduction to Algorithms
+TPC08,CRS04,Sorting Algorithms
+TPC09,CRS05,Prototypes and Classes
+TPC10,CRS06,Jobby App
+TPC02,CRS06,Third Party Packages
+TPC15,CRS06,Third Party Packages

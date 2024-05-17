@@ -18,6 +18,7 @@ This repository serves as a collection of various projects, each stored in its r
 - [Project 1: Spotify Analysis (Python + Tableau)](./Spotify%20Data%20Analysis)
 - [Project 2: Customer Churn Analysis (Python + Tableau)](./Customer%20Churn%20Analysis)
 - [Project 3: Sales Data Analysis (Python + SQL)](./SQL/Sales%20Analysis%20(Python%20+%20Postgres))
+- [Project 4: User Engagement and Course Performance Analysis (SQL)](./SQL/User%20Engagement%20and%20Course%20Performance%20Analysis%20using%20SQL)
 
 #### Tool Specific Projects
 - [Python Projects](./Python)

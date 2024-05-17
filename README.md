@@ -18,7 +18,7 @@ This repository serves as a collection of various projects, each stored in its r
 - [Project 1: Spotify Analysis (Python + Tableau)](./Spotify%20Data%20Analysis)
 - [Project 2: Customer Churn Analysis (Python + Tableau)](./Customer%20Churn%20Analysis)
 - [Project 3: Sales Data Analysis (Python + SQL)](./SQL/Sales%20Analysis%20(Python%20+%20Postgres))
-- 
+
 #### Tool Specific Projects
 - [Python Projects](./Python)
 - [Microsoft Excel Projects](./Excel)
